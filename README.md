@@ -1,7 +1,7 @@
 # Time Series Forecaster
 A template for preparing time series data into an elegant X Y problem. Initially designed to handle indoor CO2 data, extract a few features, make leads and lags, and finally fitting it to a Random Forest Regressor. 
 
-I shall be making it more generic in the commits to come.
+I shall be making it more generic, multivariate forecaster in the commits to come.
 
 * ## Complete Data Pipeline
 
